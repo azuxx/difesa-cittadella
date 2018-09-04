@@ -1,7 +1,9 @@
 # difesa-cittadella
 
 Name: Protect your citadel
+
 Date: Mar 2010 – May 2010
+
 Description: Development of an OpenGL game as project for Computer Graphics unit of study.
 
 Game description:
